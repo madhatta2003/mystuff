@@ -110,3 +110,4 @@ def change_string(sentence):
 						item = item.capitalize()
 					sentence = str.replace(sentence, item, new_word)
 	return sentence
+
